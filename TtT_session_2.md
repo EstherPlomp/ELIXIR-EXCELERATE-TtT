@@ -28,16 +28,11 @@
 
 <a name="delivering"></a>
 ### Delivering a learning event as a mission; establishing learning mode, teamwork and mutual trust
-Start with learning objectives. Once you have defined what learners need to achieve, let learning objectives lead the process.
-The class space influences behaviours. The space in the training room can help to redefine how you implement learning objectives throughout the course.
-Try to challenge yourself from more traditional, passive and instructor-led methods of teaching to more learner-centric methods that empower learners to be more engaged and involved in the process of skill development, mastery and application.
+Start with learning objectives. Focus on more learner-centric methods that empower learners to be more engaged and involved in the process of skill development, mastery and application.
 How can you use classroom space to turn challenges into opportunities for learning?
  
-While a lecture or presentation mode can be used to kick-start a session, it can easily be followed by directing students to move to a different learning mode, to access content, their peers and the instructors to support learning. This dynamic interface stimulates both participants and instructors. 
-
 Small groups, team-based exercises, and collaborative endeavours support a variety of learning modes.
-Make sure to use clear and well developed protcolos that minimise any loss of time or productivity.
-You can leverage multiple learning/teaching modes; indeed, fostering a high order of thinking skills is far more successful when students are given multiple ways to process information.  The variety of tools, flexibility of place to work and a range of people, including instructors, to network with at various intervals empower individuals and generate mutual trust. Provide students easier access to you (the instructor).
+Fostering learning is more successful when students are given multiple ways to process information.  The variety of tools, flexibility of place to work and a range of people, including instructors, to network with at various intervals empower individuals and generate mutual trust. Provide students easier access to you (the instructor).
 
 Try to give up the position of the "sage on the stage", to become the "guide on the side". This makes learners feel free to interact, ask questions, tell they got lost (when they are) and allows you to better understand what problems participants have,  work individually with those in need of help, and use your time to focus and (re)explain what was not well received.
 
@@ -59,7 +54,7 @@ Discuss it in pairs and write down which characteristics you think a good traine
 
 #### Interactive lectures and closed loop learning delivery
 
-Lectures, as traditionally used in formal learning, are characterised by a unidirectional flow of information, from one instructor to N learners. Only in rare occasions is there information going back to the instructor. Moreover, the instructor is not necessarily worried about the result, i.e. if the information that is sent is sedimenting or not in the learners' brain. So, the instructor can speak for several hours in unidirectional mode.
+Lectures, as traditionally used in formal learning, are characterised by a unidirectional flow of information, from one instructor to N learners. Only in rare occasions is there information going back to the instructor. Moreover, the instructor is not necessarily worried about the result, i.e. if the information that is sent is sedimenting or not in the learners' brain. 
 
 In training, we also use lectures to convey information, but we make them short, and, n«more importantly we make them fit in a model of delivery that is called a closed loop. The instructor delivers information so that it can be immediately utilised in and exercise or some other form of assessment. The learner perceives the effect of the incoming information and his/her ability to use it, and has an opportunity to interact with the instructor, thus "closing the loop". The instructor uses this mode to ensure that the new knowledge or skill is well sedimented in the learner's brain, and corrects whatever is needed.
 
@@ -72,9 +67,7 @@ In training, we also use lectures to convey information, but we make them short,
 >
 >An interactive lecture is an easy way for instructors to intellectually engage and involve students as active participants in a lecture-based class of any size. Interactive lectures are classes in which the instructor breaks the lecture at least once per class to have students participate in an activity that lets them work directly with the material.
 >
-* The instructor might begin the interactive segment with an engagement trigger that captures and maintains student attention.
-* Then the instructor incorporates an activity that allows students to apply what they have learned or give them a context for upcoming lecture material.
-* As the instructor feels more comfortable using interactive techniques he or she might begin to call upon a blend of various interactive techniques all in one class period.
+
 >
 >#### Why use interactive lecture?
 Lecturing is a time-honored teaching technique that is an efficient method to present large amounts of content in classes of any size and it is efficient for sharing information with large numbers of students, but may result in students who listen passively.
@@ -84,9 +77,9 @@ Lecturing is a time-honored teaching technique that is an efficient method to pr
 * Breaking up the lecture with these techniques not only provides format change to engage students, these activities allow students to immediately apply content and provides feedback to the instructor on student
 >
 >#### How to give an interactive lecture
-Giving an interactive lecture involves creating and delivering an effective segmented lecture with engagement triggers and well-selected interactive lecture techniques.
+
 >
->* The instructor must begin by giving attention to pre-instructional planning and various classroom management and logistical issues that allow for modification from the traditional lecture format. Learning goals must be established for interactive lecture techniques, the instructor must determine what types of tasks will be involved and what sort of engagement trigger might be appropriate for the activity (see more about establishing learning goals).
+>* Learning goals must be established for interactive lecture techniques, the instructor must determine what types of tasks will be involved and what sort of engagement trigger might be appropriate for the activity (see more about establishing learning goals).
 >* Next, an interactive lecture technique must be selected and adapted for the specific course and content and attention must be given to how student feedback will be collected. In the most interactive of lectures, the instructor's traditional contributions would be short and the interactive activities could be both planned and spontaneous. 
 
 The TtT taskforce of the Global Organisation for Bioinformatics Learning, Education and Training ([GOBLET] (http://mygoblet.org)), developed a skills matrix for trainiers. It aims to provide an  overview of the major skills required to be a good trainer; note that not all trainers will have all skills - that is not the point! 
@@ -121,8 +114,6 @@ The TtT taskforce of the Global Organisation for Bioinformatics Learning, Educat
 
 <a name="motivation"></a>
 ### Motivation and demotivation
-
-In general terms, as an instructor, if you feel that you need to motivate learners you should stop and think. There must be something wrong. You may be unable to identify the reason but this should be seen as a signal not to continue. You should not need to motivate people that fall in yor hands, but if you do, you should have a strategy in place for that. Start with figuring out the level of the audience and what could grab their interest.
 
 You should identify factors that may demotivate your audience and build plans to avoid them. Factors that relate to delivery format are a particular concern, as they can ruin training that has been carefully built, content-wise. Lengthy lectures, over-crowded slides, lack of materials to follow-up are good examples. 
 
@@ -195,8 +186,6 @@ Consider ways to set clear expectations, design effective evaluation strategies 
 
 > We quote from [Richard M Felder and Rebecca Brent](./docs/active_learning_an_introduction.pdf):<br>
 >
->If you think of anything a teacher might ask students to do — answer questions in class,complete assignments and projects outside class, carry out lab experiments, or anything else other than sitting passively in a classroom — you will find people who would classify it as active learning. We find that a more restricted definition limited to in-class activities is more useful: 
->
 >*Active learning is anything course-related that all students in a class session are called upon to do other than simply watching, listening and taking notes.*
 >
 >You are doing active learning in your class when:
@@ -211,7 +200,6 @@ Consider ways to set clear expectations, design effective evaluation strategies 
 * ask questions that the same few students always answer, 
 * or conduct discussions that engage only a small fraction of the class. <br>
 >
->We are not about to propose that you throw out lecturing and make every class you teach a total active learning extravaganza. You know more than most of your students do about your subject, and you need to spend part of your class time teaching them what you know - explaining, clarifying, demonstrating, modeling, etc. 
 >
 >What we are suggesting is that **you avoid making lecturing the only thing you do**. If a lecture or recitation session includes even a few minutes of relevant activity — a minute here, 30 seconds there —the students will be awake and with you for the remaining time in a way that never happens in a traditional lecture, and most will retain far more of what happens in those few minutes than of what you say and do in the rest of the session.
 
@@ -258,9 +246,6 @@ Games promote:
 Games should be designed/chosen accurately and have specific goals, should not last too much and shouln't be too frequent.
 Possible games are:
 
-* **Throw props to recap/rehearse:** Make a list of concepts/keywords and write it on the whiteboard (or a flipchart). You may also have cards stuck on the wall of the classroom with terms written on them. Throw a light and soft object to a participant, who will have catch the object, stand up, pick a term from the list and explain its meaning (or usage) in a few sentences (not more than 20-30 seconds). After the explanation, the participant will throw the object to another participant. Continue until the end of the list.
-* **Mimicking**. Make two groups. One person from each group will mimic concepts/keywords (e.g. Python commands). The rest of the group will guess the mimicked concept/keyword. The group employing less time to guess the correct concept/keyword, will get one point. In principle, this should be repeated for each component of the group. This game can also be done without splitting the audience in two groups. 
-* **Asking (and answering) questions to each other:** This activity, should the venue and the weather allow it, would be better carried out in outer space. Form two concentric circles of people facing each others. When you clap your hands, the two circles have to turn in opposite directions. A second clap will stop them and each person from the outer (inner) circle will ask a question to the person before him/her and belogning to the inner (outer) circle. Give 45 secs to answer, then clap again your hands to make people move and again to stop them. When they stop (ensure that facing pairs have changed), people from the inner (outer) circle will ask questions and those from the outer  (inner) circle will answer. Repeat for 4-6 questions (and answers).
 * **Games to introduce algorithms and/or the logic of programming (i.e., simple but accurate and very specific instructions)**. *Game 1*: divide the class into two groups. Each group will draw a simple geometrical figure and write specific istructions to draw the figure. Groups exchange instructions and try to draw the other group's figure based on the instructions received.
 *Game 2*: One person (could also be the instructor) will stand blindfolded in a corner (or at the back) of the classroom. Following instructions of participants, he or she will have to walk to the opposite corner (or the front) of the classroom, without bumping into tables, chairs, etc.
 
@@ -285,7 +270,6 @@ We also use sticky notes as minute cards: before each coffee or meal break, lear
 >**One up, one down**:
 We frequently also ask for summary feedback at the end of each day. The instructors ask the learners to alternately give one positive and one negative point about the day, without repeating anything that has already been said. This requirement forces people to say things they otherwise might not: once all the “safe” feedback has been given, participants will start saying what they really think.
 
->Minute cards are anonymous; the alternating up-and-down feedback is not. Each mode has its strengths and weaknesses, and by providing both, we hope to get the best of both worlds.
 >
 ---
 > ### Things that an instructor shouldn't do in a course 

@@ -49,10 +49,6 @@ In this session you will learn how to:
 > 
 > ![focus session and parking lot](fig/concept-map.jpg)
 
-**Activity (individual)**: Building up step by step the design of a very short lesson (three-minute session)
-- Choose a topic you think you can teach in three minutes. This can be **any** topic (how to make an origami bird, introduction to biochemistry, how bats recognise the presence of obstacles, the second law of Newton, how to draw a comic strip, etc);
-- Draw a concept map for your mini-session; What are the concepts that you want the learners to learn and the relations among the concepts
- 
 **References**:  
 - Ambrose et al (2010) "How learning works - Seven research-based principles for smart teaching". Jossey-Bass, a Wiley Imprint.
 - Novak and Cañas (2008), "Theory underlying concept maps and how to construct them"
@@ -77,24 +73,6 @@ In this session you will learn how to:
 **Introduction**  
 Defining a course and course sessions is an iterative and circular process. You start by defining an overall objective related to the concepts and skills you want the learners to develop (see concept maps). These objectives should be as much as possible SMART (Specific, Measurable, Achievable, Realistic, Time-limited). You can then explicit what are the pre-requirements that the learners will need to have a priori and what are the set of skills the training course will provide. You can also define an evaluation that participants would take to prove they have achieved the learning, and what are the concepts/competencies/skills they need to learn to succeed the evaluation. With this information at hand, you can start describing and creating the course session content, the process of the session (instructions), and any materials that would be needed. Bear in mind that this is an iterative process and can be revised several times. 
   
-**Activity (individual)**: Defining the content and resources of a three-minute presentation
-- Following up on the Activity 1, set a learning goal and a learning outcome for your mini-session;
-- Identify the target audience and prerequisites;
-- Think if you want to make your presentation active and interactive (if you are going to teach how to draw, e.g. a stylised bicycle, you might want learners to do it while you show them how to do it);
-- Think whether you need or want to use a visual support (e.g. slides/video/pictures/a web page);
-- Think whether you need to distribute some material in advance to the audience (e.g. if you are teaching how to make an origami item, you might want provide learners with sheets of paper);
-- Sketch the structure of your presentation (e.g., 40 secs introduction/2 mins on topic/20 secs conclusion);
-
-**Activity (group) - Challenge**: Recording the 3 minute sessions
-
-- You will be split into groups of 3 or 4;
-- Make sure your group has a laptop and a phone which can record video;
-- You need to each deliver your 3 minutes session to the others;
-- One person delivers the session;
-- One person records on the phone;
-- One person notes down comments real-time;
-- You then provide feedback to each individual, and give your own comments on your delivery;
-- You then have time to revise your session, before delivering to the whole group.
 
 
 > ### Recipe for planning a mini-session 
@@ -181,18 +159,6 @@ Your plan for 1h15 session may look like this:
 <a name="design"></a>
 ## Training materials: sharing and making re-use possible
 
-**Description**: This sequence raises the awareness of the amount of work and time needed to create training materials (preparing the course content), the importance of sharing and reusing training materials, and of some of the current training repositories.
-
-**Keywords**: training materials, repositories
-
-**Learning objective**: Develop an awareness of the workload needed to create training materials, create a routine of sharing and profiting from shared training materials. 
-
-**Learning outcome**: Be able to identify training materials that exist already, and develop a routine of sharing training materials. 
- 
-**Introduction**  
-Training materials developed ahead for a specific training event have a survival issue. If they reflect too much of a connection to other parts of the event they tend to lose autonomy. It also happens that true autonomy is not there if the materials are used out of the original environment, for example slides may not work without a narration (audio).
-Designing and producing quality training materials (presentations, exercises, support texts, instructions, worked results, etc.) involve a lot of work. It is a pity not to make specific efforts to create them with autonomy (self-sufficiency) in mind. They should be properly stored (and backed-up) and made available in referenceable public repositories such as GOBLET, TeSS and GitHub. 
-
 <a name="repositories"></a>
 ###  Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
 With sharing and [FAIR](https://fair-dom.org/) principles in mind, GOBLET (the Global Organisation for Bioinformatics Learning Education and Training)  has pioneered a public repository within a [training Portal](http://mygoblet.org/training-portal) in 2014  where a significant amout of training materials has already been deposited.
@@ -214,82 +180,3 @@ Alternatively, the use of electronic notebooks, namely [Jupyter](http://jupyter.
 * http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb        (Jupyter) 
 
 
-<a name="reproducibility"></a>
-## Reproducibility of compute environments
-
-**Description**: This sequence raises the awareness of the compute environments that are needed in different settings of bioinformatics courses.
-
-**Keywords**: computer environment, computer setup
-
-**Learning objective**: Develop an awareness of the computer setups that are need for training courses. 
-
-**Learning outcome**: Be able to identify compute requirements for different types of training courses. 
-
-**Introduction**. 
-Bioinformatics training targets a wide range of topics that have very different requirements in terms of the machinery needed to run the exercises. A Unix or Python exercise session can be run in any “simple” laptop with just a terminal (command line) emulator. On the other extreme, a course on big data/metagenomics/NGS analysis will need several software (for instance tools for quality control, for data alignment and assembly, for functional analysis, etc. etc.) and reference datasets, making the installation process time-consuming. 
-
-Ideally, in a course setting, every computer should have an identical installation setup and sufficient hardware (power and memory) to run the tools. VMs and the use of cloud computing can provide solutions to these training challenges and provide a standardized and reproducible computing set-up. VMs can be run on a laptop, server or cloud (with appropriate virtualisation software), and provide all trainees with an identical software environment in which to work. Additionally, to continue their learning, promoting their independence and for the sake of reproducible results, trainees have the potential to use the VM after the course has ended, in their own labs.
-
-In the case the course is run in a training room which is equipped with computers, these devices should also all have the same setup. This can be achieved with an image which will contain the tools and data required, and it will be deployed when the computer is booted.
-
-**Activity (individual)**: For the course that you have developed in the first activity, describe which are the minimum computer requirements needed.
-
-**References:**  
-- Morgan SL, Palagi PM, Fernandes PL et al. The ELIXIR-EXCELERATE Train-the-Trainer pilot programme: empower researchers to deliver high-quality training [version 1; referees: 2 approved]. F1000Research 2017, 6:1557 (doi: 10.12688/f1000research.12332.1)
-
-
-<a name="rooms"></a>
-## Training rooms for bioinformatics
-
-**Description**: This sequence is meant to raise the awareness of the physical environment of the training room in the case of face-to-face courses.
-
-**Keywords**: computer room, training room, room
-
-**Learning objective**: Develop an awareness of the physical room environments needed to run face-to-face training courses. 
-
-**Learning outcome**: Be able to identify physical room requirements for needed to run face-to-face training courses. 
- 
-**Introduction**
-
-The working environment for learners should be entirely reproducible. First, inside the training room, the environment must be the same for everybody. Secondly, the learners should feel that they can reproduce the same environment when they go home after a training event. Virtualised environments can be a solution (seen in the previous session). However, the training room physical facilities also need a careful thinking.
-
-There are physical environment constraints that every training room should respect. They are important in the initial planning, and in improvements that one may consider in their lifetime.
-
-
-Room geometry
-
-The design of modern bioinformatics training rooms should, primarily, be learner centered. Space to circulate, to allow for instructors to reach learners and interact with them is absolutely essential. Learner comfort comes next: the quality of the seats, the lighting, the room temperature control, the stability of power and network connections, these are all aspects that have serious impact in learner satisfaction.
-
-Functionality
-
-Learners access to anything that is shared should be in the first line of priority. Access to shared storage space should be made easy. To communicate with the learners, video, audio, drawing surfaces (whiteboard, flipchart paper), a corkboard to pin materials, etc. should have premium access and ease of use.
-
-Hardware needs
-
-In some cases, network connections providing simple browsing (Port 80) or SSH access (Port 22) are more than sufficient. In the case of BYOD (bring your own device), the room must have easy power suppliers and network connections, including a good quality wifi access.
-
-<a name="preparatory"></a>
-####Checklist for face-to-face course deployment in rooms which provide
-
-    * Prepare the workstations so that they have a uniform setups/installations.
-    * Ideally, prepare and test one machine and use disk cloning, VMs or containers to ensure uniformity.
-    * Clean-up shared directories: To_Participant, From_Participant, Data, Installers
-    * Check projector, lamp, dust filter, focus and color mode.
-    * Check documentation that may need to be distributed in paper form
-    * Check name tags for the Participants
-    * Prepare a list of Participants
-    * Check training room tidyness
-    * Check air conditioned, lighting
-    * Check for the availability of pens and paper pads for notes
-    * Check Felt Tip Markers and whiteboard
-
-#### Checklist for face-to-face course deployment when participants bring their own computers 
-    * Prepare and test VMs or containers to ensure uniformity.
-    * Check projector, lamp, dust filter, focus and color mode.
-    * Check documentation that may need to be distributed in paper form
-    * Check name tags for the Participants
-    * Prepare a list of Participants
-    * Check training room tidiness
-    * Check air conditioned, lighting
-    * Check for the availability of pens and paper pads for notes
-    * Check Felt Tip Markers and whiteboard
